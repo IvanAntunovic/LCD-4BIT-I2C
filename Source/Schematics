@@ -1,0 +1,5 @@
+Tested on ATmega324p, but it can be used on any ATmega device.
+Code is written by Ivan Antunovic and it can be freely used and shared.
+
+Schematics can be found at following link:
+https://s27.postimg.org/sghq5j8lf/LCD_I2_C.jpg
